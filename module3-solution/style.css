@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.brand-name{
+    background-color: grey;
+    border: 5px;
+    border-style: solid;
+    display: block;
+    margin: 0%;
+    font-display: bold;
+    font-size: x-large;
+    box-sizing: border-box;
+    padding: 14px;
+}
+.menu{
+    text-align: center;
+    padding: 0%;
+    margin: 10px;
+    font-size: xx-large;
+
+}
+article{
+    background-color: gray;
+    margin: 20px;
+
+}
+.sub-heading{
+    text-align: center;
+    font-size: large;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
